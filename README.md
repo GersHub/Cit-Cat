@@ -1,6 +1,6 @@
 # Cit-Cat
 
 
-## KNOWLEDGE DEVELOPMENT IN THE FIELD OF SMART ENERGY SYSTEMS: A SYSTEMATIC ANALYSIS OF CITATION FUNCTIONS
+## Knowledge development in the field of smart energy systems
 
 Information will be updated after publication
